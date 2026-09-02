@@ -1,0 +1,25 @@
+INICIO 
+
+    Ingresar matricula del vehículo
+
+	Si esta registrado Entonces
+	
+		Permitir entrada 
+		
+		Espacios disponibles -1
+
+		Mostrar "Tiene permitido entrar"
+		
+		Mostrar espacios restantes
+	SiNo
+		
+		Mostrar "No hay espacios libres"
+	FinSi
+	
+    Sino
+	
+	Mostrar "No estar registrado"
+    
+    FinSi 
+
+FIN
