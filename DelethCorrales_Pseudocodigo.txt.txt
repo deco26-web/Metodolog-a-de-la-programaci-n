@@ -1,0 +1,50 @@
+NOMBRE:CORRALES VALENZUELA DELETH ALBERTO 
+MATERIA:METODOLOGIA DE LA PROGRAMACION 
+ACTIVIDAD:INVESTIGACION SOBRE PSEUDOCODIGOS 
+
+¿Qué es un pseudocódigo?
+
+El pseudocodigo es una forma de representar los pasos que se deben seguir para solucionar un problema utilizando instrucciones escritas de manera sencilla y ordenada. No pertenece a un lenguaje de programación específico, por lo que puede ser entendido fácilmente antes de comenzar a programar
+
+¿Para qué se utiliza?
+
+Se utiliza para planear la solución de un problema antes de escribir un programa. Permite organizar las instrucciones, identificar los datos necesarios y establecer las operaciones que se realizarán para obtener un resultado
+
+¿Qué relación existe entre un algoritmo y un pseudocodigo?
+
+Un algoritmo es un conjunto de pasos ordenados que permiten resolver un problema. El pseudocódigo es una forma de representar esos pasos utilizando palabras sencillas. Por lo tanto, el pseudocódigo permite escribir y organizar un algoritmo antes de convertirlo en código de programación
+
+¿Cuáles son las principales características de un pseudocodigo?
+
+Utiliza instrucciones claras y fáciles de comprender
+Presenta los pasos en un orden lógico
+No depende de un lenguaje de programación específico
+Puede utilizar variables y operaciones matemáticas
+Permite identificar los datos de entrada, el proceso y la salida
+Puede representar decisiones y diferentes acciones
+
+¿Qué ventajas tiene desarrollar un pseudocodigo antes de comenzar a programar?
+
+El pseudocodigo ayuda a organizar las ideas y a comprender mejor el problema antes de comenzar a escribir código. También permite detectar errores en la lógica de la solución y facilita posteriormente la creación del programa en cualquier lenguaje de programación
+
+Pseudocodigo seleccionado: Calcular el total de una compra a partir del precio y cantidad de productos 
+
+Análisis del pseudocodigo:
+datos de entrada: precio del producto, cantidad de productos 
+procesos: se multiplica el precio del producto por la cantidad de productos 
+datos de salid: total de la compra(la multiplicación)
+
+INICIO
+
+Escribir "Ingresa el precio del producto"
+leer precio de producto 
+
+Escribir "Ingresa la cantidad de productos"
+leer cantidad de productos 
+
+total= precio*cantidad
+
+Escribir "El total de la compra es:" total
+
+FIN 
+
